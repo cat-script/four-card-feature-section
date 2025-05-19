@@ -35,6 +35,8 @@ body {
   color: var(--c-text);
   background-color: var(--c-bg);
   padding: 5rem 2rem;
+  display: grid;
+  place-items: center;
 }
 
 .wrapper>* {
